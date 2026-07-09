@@ -1,0 +1,4 @@
+bot_token = "8658936356:AAFJ1Lkzx9VHpOf1_3mQwCdL-W4qRKDgd0I"
+ADMINS_USERNAME = ["J_AHMDI"]
+VALID_CHATS = ["test_test_Faq"]
+  
